@@ -8,12 +8,17 @@ This repository contains my progress on the 100 days of code
 - Started working on first react app
   - Created main component
 
-## Day 2
+## Day 2: Continued work on React project
 
-- Continued work on React project
 - Created a new component
 - Added event handling
 - implemented add, delete and reset functionality
 - Used React Developer tools chrome extension to debug code.
 
 ![day2](components.png)
+
+## Day 3: Continued work on React project
+
+- Added Nav Bar component
+- updated code on other components
+- shared state variables between components
