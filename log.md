@@ -31,3 +31,11 @@ This repository contains my progress on the 100 days of code
 - Added like functionality
 
 ![day4](table.png)
+
+## Day 5: React Project
+
+- updated code on components
+- updated backend code
+- Added Filter functionality
+
+![paginate](paginate.png)
