@@ -39,3 +39,23 @@ This repository contains my progress on the 100 days of code
 - Added Filter functionality
 
 ![paginate](paginate.png)
+
+## Day 6: React Project
+
+- updated component and backend code
+- Added sorting algorithm
+- created reusable components
+- refactored code for easy understanding
+
+![day6](day6.png)
+
+## Day 7: React Project
+
+- Added routing
+- created new components
+- Added bootstrap navigation bar
+- added login form
+
+![day7](day7.png)
+
+![day7b](day7b.png)
