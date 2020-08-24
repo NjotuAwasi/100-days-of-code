@@ -59,3 +59,12 @@ This repository contains my progress on the 100 days of code
 ![day7](day7.png)
 
 ![day7b](day7b.png)
+
+## Day 8: React Project
+
+- updated component code
+- Added form for new Movie
+- implemented form validation using joi-brower package
+- Implemented Search Functionality
+
+![day8](day8.png)
