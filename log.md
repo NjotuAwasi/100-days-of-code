@@ -68,3 +68,10 @@ This repository contains my progress on the 100 days of code
 - Implemented Search Functionality
 
 ![day8](day8.png)
+
+## Day 9: Calling backend services with react
+
+- added axios package for http request
+- used jsonplaceholder end points for sample data
+- implemented get, post, put and delete requests
+- used Raven-js package for viewing log
