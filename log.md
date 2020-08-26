@@ -75,3 +75,13 @@ This repository contains my progress on the 100 days of code
 - used jsonplaceholder end points for sample data
 - implemented get, post, put and delete requests
 - used Raven-js package for viewing log
+
+## Day 10: Authentication and Authorization
+
+- added Register user functionality in the database
+- Handled register and login errors from the server
+- Stored Json web token in the local Storage of browser
+- Fixed bi-directional dependencies
+- Added route protection
+
+![day10](day10.png)
