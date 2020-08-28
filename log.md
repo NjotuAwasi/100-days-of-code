@@ -85,3 +85,15 @@ This repository contains my progress on the 100 days of code
 - Added route protection
 
 ![day10](day10.png)
+
+## Day 11: React app complete
+
+- set environment variables
+- built project for production
+- created database in mongodb cloud
+- Deployed app to heroku
+
+## Day 12:
+
+- Learnt more about higher order components and hooks in React
+- Implemented context in a demo project to share data between components
