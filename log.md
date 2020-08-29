@@ -97,3 +97,10 @@ This repository contains my progress on the 100 days of code
 
 - Learnt more about higher order components and hooks in React
 - Implemented context in a demo project to share data between components
+
+## Day 13:
+
+- Install android studio
+- Install expo client
+- Set up react native dev environment
+- Initialised project
