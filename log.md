@@ -15,7 +15,7 @@ This repository contains my progress on the 100 days of code
 - implemented add, delete and reset functionality
 - Used React Developer tools chrome extension to debug code.
 
-![day2](components.png)
+![day2](images/components.png)
 
 ## Day 3: Continued work on React project
 
@@ -30,7 +30,7 @@ This repository contains my progress on the 100 days of code
 - Added pagination
 - Added like functionality
 
-![day4](table.png)
+![day4](images/table.png)
 
 ## Day 5: React Project
 
@@ -38,7 +38,7 @@ This repository contains my progress on the 100 days of code
 - updated backend code
 - Added Filter functionality
 
-![paginate](paginate.png)
+![paginate](images/paginate.png)
 
 ## Day 6: React Project
 
@@ -47,7 +47,7 @@ This repository contains my progress on the 100 days of code
 - created reusable components
 - refactored code for easy understanding
 
-![day6](day6.png)
+![day6](images/day6.png)
 
 ## Day 7: React Project
 
@@ -56,9 +56,9 @@ This repository contains my progress on the 100 days of code
 - Added bootstrap navigation bar
 - added login form
 
-![day7](day7.png)
+![day7](images/day7.png)
 
-![day7b](day7b.png)
+![day7b](images/day7b.png)
 
 ## Day 8: React Project
 
@@ -67,7 +67,7 @@ This repository contains my progress on the 100 days of code
 - implemented form validation using joi-brower package
 - Implemented Search Functionality
 
-![day8](day8.png)
+![day8](images/day8.png)
 
 ## Day 9: Calling backend services with react
 
@@ -84,7 +84,7 @@ This repository contains my progress on the 100 days of code
 - Fixed bi-directional dependencies
 - Added route protection
 
-![day10](day10.png)
+![day10](images/day10.png)
 
 ## Day 11: React app complete
 
