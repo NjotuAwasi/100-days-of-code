@@ -104,3 +104,14 @@ This repository contains my progress on the 100 days of code
 - Install expo client
 - Set up react native dev environment
 - Initialised project
+
+## Day 14:
+
+- Learnt some React native core components and APIs
+  - views
+  - text
+  - image
+  - touchables
+  - button
+  - alert
+  - stylesheet
