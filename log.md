@@ -120,6 +120,6 @@ This repository contains my progress on the 100 days of code
 
 - Learnt how to create layouts in react native
 - Learnt how to style react native elements
-- Built login screen for my project
+- Built Welcome screen for my project
 
 ![day15](images/day15.png)
