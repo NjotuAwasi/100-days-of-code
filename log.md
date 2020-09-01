@@ -126,7 +126,7 @@ This repository contains my progress on the 100 days of code
 
 ## Day 16: React Native project
 
-- Learnt how to work with screens
+- Learnt how to work with lists
 - Built profile screen, Messages screen, View Image screen and listings screen for app.
 
 ![day15](images/day16.png)
