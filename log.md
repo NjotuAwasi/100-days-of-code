@@ -123,3 +123,11 @@ This repository contains my progress on the 100 days of code
 - Built Welcome screen for my project
 
 ![day15](images/day15.png)
+
+## Day 16: React Native project
+
+- Learnt how to work with screens
+- Built profile screen, Messages screen, View Image screen and listings screen for app.
+
+![day15](images/day16.png)
+![day15](images/day16b.png)
