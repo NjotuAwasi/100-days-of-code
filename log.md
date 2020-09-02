@@ -135,7 +135,7 @@ This repository contains my progress on the 100 days of code
 ## Day 17: React Native project
 
 - Learnt how to build forms with formik
-- Built login registeration forms
+- Built login and registeration forms
 - Validated forms with yup
 
 ![day17](images/day17.png)
