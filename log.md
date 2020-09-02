@@ -129,5 +129,13 @@ This repository contains my progress on the 100 days of code
 - Learnt how to work with lists
 - Built profile screen, Messages screen, View Image screen and listings screen for app.
 
-![day15](images/day16.png)
-![day15](images/day16b.png)
+![day16](images/day16.png)
+![day16](images/day16b.png)
+
+## Day 17: React Native project
+
+- Learnt how to build forms with formik
+- Built login registeration forms
+- Validated forms with yup
+
+![day17](images/day17.png)
