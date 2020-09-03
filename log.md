@@ -139,3 +139,11 @@ This repository contains my progress on the 100 days of code
 - Validated forms with yup
 
 ![day17](images/day17.png)
+
+## Day 18: React Native project
+
+- Learnt how to work with expo-location package
+- Added icons from expo/vecto-icons to categories
+- Improved form in my project
+
+![day18](images/day18.png)
