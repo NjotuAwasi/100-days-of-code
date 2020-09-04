@@ -147,3 +147,7 @@ This repository contains my progress on the 100 days of code
 - Improved form in my project
 
 ![day18](images/day18.png)
+
+## Day 18
+
+Added more styling to app and refactored code
