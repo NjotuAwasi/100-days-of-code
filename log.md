@@ -148,6 +148,6 @@ This repository contains my progress on the 100 days of code
 
 ![day18](images/day18.png)
 
-## Day 18
+## Day 19
 
 Added more styling to app and refactored code
