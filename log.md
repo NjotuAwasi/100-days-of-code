@@ -151,3 +151,12 @@ This repository contains my progress on the 100 days of code
 ## Day 19
 
 Added more styling to app and refactored code
+
+## Day 20
+
+- learnt how to get and post backend data with apisauce
+
+## Day 21
+
+- learnt how to work with AsyncStorage for caching data
+- used react-native-expo-image-cache for caching images
