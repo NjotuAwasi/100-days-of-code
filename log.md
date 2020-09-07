@@ -160,3 +160,8 @@ Added more styling to app and refactored code
 
 - learnt how to work with AsyncStorage for caching data
 - used react-native-expo-image-cache for caching images
+
+## Day 22
+
+- Added offline support to React App
+- learnt how to cache data with Redux
