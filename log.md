@@ -165,3 +165,11 @@ Added more styling to app and refactored code
 
 - Added offline support to React App
 - learnt how to cache data with Redux
+
+## Day 23: React Native Project
+
+- Implemented login and register with data from the server using a token
+- Created a custom hook
+- Implemented log out functionality
+
+![Day23](images/day23.png)
