@@ -173,3 +173,7 @@ Added more styling to app and refactored code
 - Implemented log out functionality
 
 ![Day23](images/day23.png)
+
+## Day 24: React Native Project
+
+- Implemented both local and remote push notifications from the expo package
