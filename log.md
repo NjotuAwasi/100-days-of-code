@@ -177,3 +177,15 @@ Added more styling to app and refactored code
 ## Day 24: React Native Project
 
 - Implemented both local and remote push notifications from the expo package
+
+## Day 24: React Native Project
+
+- Learnt and implemented bugsnap in project
+
+## Day 25: React Native Project
+
+- Optimized assets and javascript bundle 
+- set up environent variables
+- Created app icon
+
+
