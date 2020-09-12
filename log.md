@@ -184,8 +184,11 @@ Added more styling to app and refactored code
 
 ## Day 26: React Native Project
 
-- Optimized assets and javascript bundle 
+- Optimized assets and javascript bundle
 - set up environent variables
 - Created app icon
 
+## Day 27:
 
+- Added material ui to new react project
+- build a login form styled with material ui
