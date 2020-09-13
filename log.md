@@ -192,3 +192,7 @@ Added more styling to app and refactored code
 
 - Added material ui to new react project
 - build a login form styled with material ui
+
+## Day 28:
+
+- Watched a complete tutorial on git commands and created a demo repo on github for practice
