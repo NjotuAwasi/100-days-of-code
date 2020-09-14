@@ -196,3 +196,7 @@ Added more styling to app and refactored code
 ## Day 28:
 
 - Watched a complete tutorial on git commands and created a demo repo on github for practice
+
+## Day 29:
+
+- Did code refactoring and debugging on a react project
