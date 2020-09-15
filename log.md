@@ -200,3 +200,7 @@ Added more styling to app and refactored code
 ## Day 29:
 
 - Did code refactoring and debugging on a react project
+
+## Day 30:
+
+- Learnt how to work with the twitter API for python (tweepy)
