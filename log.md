@@ -204,3 +204,9 @@ Added more styling to app and refactored code
 ## Day 30:
 
 - Learnt how to work with the twitter API for python (tweepy)
+Tweeted from a python script
+
+## Day 31:
+
+- Learnt most of the markdown elements and their syntax. 
+- Created a readme file with markdown for react project
