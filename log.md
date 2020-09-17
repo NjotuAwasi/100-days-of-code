@@ -204,9 +204,17 @@ Added more styling to app and refactored code
 ## Day 30:
 
 - Learnt how to work with the twitter API for python (tweepy)
-Tweeted from a python script
+  Tweeted from a python script
 
 ## Day 31:
 
-- Learnt most of the markdown elements and their syntax. 
+- Learnt most of the markdown elements and their syntax.
 - Created a readme file with markdown for react project
+
+## Day 32:
+
+- Created a small quiz app using react following a tutorial from free code camp. this exercise helped with my understanding of the useState hook
+
+![Day32](images/day32.png)
+
+![Day32b](images/day32b.png)
