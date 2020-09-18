@@ -218,3 +218,7 @@ Added more styling to app and refactored code
 ![Day32](images/day32.png)
 
 ![Day32b](images/day32b.png)
+
+## Day 33:
+
+-Added some styling to my react quiz app and Completed a tutorial on redux.
