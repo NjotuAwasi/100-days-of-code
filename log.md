@@ -222,3 +222,7 @@ Added more styling to app and refactored code
 ## Day 33:
 
 -Added some styling to my react quiz app and Completed a tutorial on redux.
+
+## Day 34:
+
+- Build a contact form in react and styled with material ui
