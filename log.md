@@ -226,3 +226,7 @@ Added more styling to app and refactored code
 ## Day 34:
 
 - Build a contact form in react and styled with material ui
+
+## Day 35:
+
+- Did more styling on react project
