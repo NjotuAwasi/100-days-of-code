@@ -230,3 +230,7 @@ Added more styling to app and refactored code
 ## Day 35:
 
 - Did more styling on react project
+
+## Day 36:
+
+- Added an about us page to react project and styled with basic css
