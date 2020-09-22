@@ -234,3 +234,7 @@ Added more styling to app and refactored code
 ## Day 36:
 
 - Added an about us page to react project and styled with basic css
+
+## Day 37:
+
+- Did more practice excercises with higher order components and React Context
