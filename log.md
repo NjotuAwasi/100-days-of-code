@@ -238,3 +238,11 @@ Added more styling to app and refactored code
 ## Day 37:
 
 - Did more practice excercises with higher order components and React Context
+
+## Day 38: React excercise from free code camp
+
+- Created a small temperature increase/decrease react app using the useState hook.
+
+![day38](images/day38.png)
+
+![day38b](images/day38b.png)
