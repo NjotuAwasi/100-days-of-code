@@ -246,3 +246,7 @@ Added more styling to app and refactored code
 ![day38](images/day38.png)
 
 ![day38b](images/day38b.png)
+
+## Day 39: React excercise
+
+- Created a shopping cart app.
