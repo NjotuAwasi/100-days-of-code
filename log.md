@@ -250,3 +250,7 @@ Added more styling to app and refactored code
 ## Day 39: React excercise
 
 - Created a shopping cart app.
+
+## Day 40:
+
+- created a demo repo to practice most git commants and merging branches
