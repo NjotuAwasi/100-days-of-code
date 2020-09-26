@@ -254,3 +254,7 @@ Added more styling to app and refactored code
 ## Day 40:
 
 - created a demo repo to practice most git commants and merging branches
+
+## Day 41: 
+
+- Did a lot of code refactoring
