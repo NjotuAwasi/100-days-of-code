@@ -258,3 +258,7 @@ Added more styling to app and refactored code
 ## Day 41: 
 
 - Did a lot of code refactoring
+
+## Day 42: 
+
+- did some styling practice on react with material ui styles 
