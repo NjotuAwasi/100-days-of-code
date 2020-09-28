@@ -255,10 +255,15 @@ Added more styling to app and refactored code
 
 - created a demo repo to practice most git commants and merging branches
 
-## Day 41: 
+## Day 41:
 
 - Did a lot of code refactoring
 
-## Day 42: 
+## Day 42:
 
-- did some styling practice on react with material ui styles 
+- did some styling practice on react with material ui styles
+
+## Day 43:
+
+- Dived deeper in to react native
+- Fixed a major bug in a react app
