@@ -267,3 +267,7 @@ Added more styling to app and refactored code
 
 - Dived deeper in to react native
 - Fixed a major bug in a react app
+
+## Day 44:
+
+- Built a react count down app
