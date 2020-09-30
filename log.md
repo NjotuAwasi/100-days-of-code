@@ -271,3 +271,10 @@ Added more styling to app and refactored code
 ## Day 44:
 
 - Built a react count down app
+
+## Day 45:
+
+- Created react app for a portfolio website.
+- Added a component for the homapage designed with raw css
+
+![day45](images/day45.png)
