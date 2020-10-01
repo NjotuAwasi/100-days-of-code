@@ -278,3 +278,7 @@ Added more styling to app and refactored code
 - Added a component for the homapage designed with raw css
 
 ![day45](images/day45.png)
+
+## Day 46:
+
+- Did styling with css for portfolio
