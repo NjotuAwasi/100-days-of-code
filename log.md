@@ -286,3 +286,7 @@ Added more styling to app and refactored code
 ## Day 47:
 
 - Had some trouble with the signup form for a react project. I decided to impliment the forms using the formik package and it worked.
+
+## Day 48:
+
+- Added more chat screen to react native app.
