@@ -290,3 +290,7 @@ Added more styling to app and refactored code
 ## Day 48:
 
 - Added more chat screen to react native app.
+
+## Day 49:
+
+- Added styling to mobile app
