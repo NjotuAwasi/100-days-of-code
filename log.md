@@ -294,3 +294,7 @@ Added more styling to app and refactored code
 ## Day 49:
 
 - Added styling to mobile app
+
+## Day 50:
+
+- Started a react project for hangman game
