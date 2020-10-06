@@ -298,3 +298,7 @@ Added more styling to app and refactored code
 ## Day 50:
 
 - Started a react project for hangman game
+
+Day 50:
+
+- Added styling to react hangman game
