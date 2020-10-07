@@ -299,6 +299,11 @@ Added more styling to app and refactored code
 
 - Started a react project for hangman game
 
-Day 50:
+## Day 51:
 
 - Added styling to react hangman game
+
+## Day 52:
+
+- followed a nosql db tutorial
+- installed and configured mongodb
