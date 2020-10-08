@@ -307,3 +307,8 @@ Added more styling to app and refactored code
 
 - followed a nosql db tutorial
 - installed and configured mongodb
+
+
+## Day 53:
+
+- earnt about replication in mongo db
