@@ -311,4 +311,8 @@ Added more styling to app and refactored code
 
 ## Day 53:
 
-- earnt about replication in mongo db
+- Learnt about replication in mongo db
+
+## Day 54:
+
+- refactored code for my portfolio website
