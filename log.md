@@ -316,3 +316,9 @@ Added more styling to app and refactored code
 ## Day 54:
 
 - refactored code for my portfolio website
+
+## Day 55:
+
+- Started learning nodejs from the basics. 
+- learnt to create a simple server
+- Introduction to express framwork
