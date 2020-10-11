@@ -322,3 +322,7 @@ Added more styling to app and refactored code
 - Started learning nodejs from the basics. 
 - learnt to create a simple server
 - Introduction to express framwork
+
+## Day 56:
+
+- Created database with collections and sample data in mongodb.
