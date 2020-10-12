@@ -326,3 +326,7 @@ Added more styling to app and refactored code
 ## Day 56:
 
 - Created database with collections and sample data in mongodb.
+
+## Day 57:
+
+- Learnt more about uding express framework in nodejs
