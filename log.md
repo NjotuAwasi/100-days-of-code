@@ -308,7 +308,6 @@ Added more styling to app and refactored code
 - followed a nosql db tutorial
 - installed and configured mongodb
 
-
 ## Day 53:
 
 - Learnt about replication in mongo db
@@ -319,7 +318,7 @@ Added more styling to app and refactored code
 
 ## Day 55:
 
-- Started learning nodejs from the basics. 
+- Started learning nodejs from the basics.
 - learnt to create a simple server
 - Introduction to express framwork
 
@@ -330,3 +329,11 @@ Added more styling to app and refactored code
 ## Day 57:
 
 - Learnt more about uding express framework in nodejs
+
+## Day 58:
+
+- Created users and auth routes for backend project build with nodejs.
+- Used bycryptjs package for password encrytion
+- Learnt how to validated form data with joi.
+
+![day58](images/day58.png)
