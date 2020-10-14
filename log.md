@@ -337,3 +337,7 @@ Added more styling to app and refactored code
 - Learnt how to validated form data with joi.
 
 ![day58](images/day58.png)
+
+Day 60:
+
+- created routes for all other models
