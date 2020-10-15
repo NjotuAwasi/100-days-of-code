@@ -338,6 +338,10 @@ Added more styling to app and refactored code
 
 ![day58](images/day58.png)
 
-Day 60:
+Day 59:
 
 - created routes for all other models
+
+Day 60:
+
+- Solved issues I had with material ui styles in react.
