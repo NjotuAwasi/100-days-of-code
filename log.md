@@ -346,6 +346,10 @@ Day 60:
 
 - Solved issues I had with material ui styles in react.
 
-Day 60:
+Day 61:
 
 - Learnt more about the usage of json web token and implemented it in a nodejs project
+
+Day 62:
+
+- Refactored code on my node js project
