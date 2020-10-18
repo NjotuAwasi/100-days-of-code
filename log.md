@@ -353,3 +353,7 @@ Day 61:
 Day 62:
 
 - Refactored code on my node js project
+
+Day 63:
+
+- Created a simple shopping list react app
