@@ -357,3 +357,7 @@ Day 62:
 Day 63:
 
 - Created a simple shopping list react app
+
+Day 64:
+
+- Learnt more about the json syntax
