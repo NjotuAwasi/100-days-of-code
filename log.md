@@ -361,3 +361,8 @@ Day 63:
 Day 64:
 
 - Learnt more about the json syntax
+
+Day 65:
+
+- Created new react native project for movies
+- Learnt how to use the imdb movie APi with react native
