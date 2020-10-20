@@ -366,3 +366,5 @@ Day 65:
 
 - Created new react native project for movies
 - Learnt how to use the imdb movie APi with react native
+
+![day66](images/day66.png)
