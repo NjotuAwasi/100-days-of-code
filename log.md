@@ -368,3 +368,7 @@ Day 65:
 - Learnt how to use the imdb movie APi with react native
 
 ![day66](images/day66.png)
+
+Day 66:
+
+- got and API key from TMDb and implemented in the project
