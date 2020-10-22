@@ -372,3 +372,7 @@ Day 65:
 Day 66:
 
 - got and API key from TMDb and implemented in the project
+
+Day 67:
+
+- added movie screen for react movie app
