@@ -376,3 +376,8 @@ Day 66:
 Day 67:
 
 - added movie screen for react movie app
+
+Day 68:
+
+- Rquested moves from the movie api
+- classified the movies into different groups
