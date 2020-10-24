@@ -381,3 +381,8 @@ Day 68:
 
 - Rquested moves from the movie api
 - classified the movies into different groups
+
+Day 69:
+
+- Added an events page component to a react project
+- used cards from material ui to design event types
