@@ -386,3 +386,8 @@ Day 69:
 
 - Added an events page component to a react project
 - used cards from material ui to design event types
+
+Day 70:
+
+- Added a signup and login page to react project
+- used material ui to style the pages
