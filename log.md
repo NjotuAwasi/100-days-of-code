@@ -391,3 +391,8 @@ Day 70:
 
 - Added a signup and login page to react project
 - used material ui to style the pages
+
+Day 71:
+
+- worked on styling the homepage of the react project
+- added a sticky footer
