@@ -396,3 +396,7 @@ Day 71:
 
 - worked on styling the homepage of the react project
 - added a sticky footer
+
+Day 72
+
+- started working on a dashboard for my project
