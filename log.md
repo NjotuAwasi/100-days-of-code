@@ -400,3 +400,8 @@ Day 71:
 Day 72
 
 - started working on a dashboard for my project
+
+Day 72:
+
+- Created a new component for react project;
+- changed sign up form to modal
