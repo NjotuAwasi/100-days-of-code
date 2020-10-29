@@ -405,3 +405,8 @@ Day 72:
 
 - Created a new component for react project;
 - changed sign up form to modal
+
+Day 73:
+
+- did some more practice with mongodb commands and queries
+-  learnt more about the benefits of mongodb
