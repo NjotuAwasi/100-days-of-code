@@ -410,3 +410,7 @@ Day 73:
 
 - did some more practice with mongodb commands and queries
 -  learnt more about the benefits of mongodb
+
+day 74:
+
+- Learnt about heroku and how to deploy and app.
