@@ -411,6 +411,11 @@ Day 73:
 - did some more practice with mongodb commands and queries
 -  learnt more about the benefits of mongodb
 
-day 74:
+day 75:
 
 - Learnt about heroku and how to deploy and app.
+
+Day 75:
+
+- Sorted movies by category in my react native app
+- designed search bar for app.
