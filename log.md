@@ -419,3 +419,8 @@ Day 75:
 
 - Sorted movies by category in my react native app
 - designed search bar for app.
+
+Day 76:
+
+- Started learning oracle 12c database 
+- installed oracle database 12c enterprise
