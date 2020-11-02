@@ -424,3 +424,10 @@ Day 76:
 
 - Started learning oracle 12c database 
 - installed oracle database 12c enterprise
+
+Day 75:
+
+- Leant how to connect using sysdba
+- created a pluggable database
+- unlocked the hr account
+- made connection easier in the tnsnarmes.ora files
