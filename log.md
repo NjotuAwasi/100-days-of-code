@@ -401,12 +401,12 @@ Day 72
 
 - started working on a dashboard for my project
 
-Day 72:
+Day 73:
 
 - Created a new component for react project;
 - changed sign up form to modal
 
-Day 73:
+Day 74:
 
 - did some more practice with mongodb commands and queries
 -  learnt more about the benefits of mongodb
@@ -415,19 +415,27 @@ day 75:
 
 - Learnt about heroku and how to deploy and app.
 
-Day 75:
+Day 76:
 
 - Sorted movies by category in my react native app
 - designed search bar for app.
 
-Day 76:
+Day 77:
 
 - Started learning oracle 12c database 
 - installed oracle database 12c enterprise
 
-Day 75:
+Day 78:
 
 - Leant how to connect using sysdba
 - created a pluggable database
 - unlocked the hr account
 - made connection easier in the tnsnarmes.ora files
+
+Day 79: react-native
+
+- Displayed movies in a row using flatlist.
+- Dompleted design for movie screen.
+- Did a lot of code refactoring.
+
+![Day79](images/day79.png)
