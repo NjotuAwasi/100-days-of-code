@@ -409,7 +409,7 @@ Day 73:
 Day 74:
 
 - did some more practice with mongodb commands and queries
--  learnt more about the benefits of mongodb
+- learnt more about the benefits of mongodb
 
 day 75:
 
@@ -422,7 +422,7 @@ Day 76:
 
 Day 77:
 
-- Started learning oracle 12c database 
+- Started learning oracle 12c database
 - installed oracle database 12c enterprise
 
 Day 78:
@@ -439,3 +439,8 @@ Day 79: react-native
 - Did a lot of code refactoring.
 
 ![Day79](images/day79.png)
+
+Day 80:
+
+- Select queries in oracle
+- order by, fetch clauses
