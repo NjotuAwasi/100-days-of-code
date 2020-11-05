@@ -444,3 +444,10 @@ Day 80:
 
 - Select queries in oracle
 - order by, fetch clauses
+
+Day 81:
+
+- Single row functions
+  - character functions
+  - number functions
+  - date functions
