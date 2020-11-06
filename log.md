@@ -451,3 +451,8 @@ Day 81:
   - character functions
   - number functions
   - date functions
+
+Day 82:
+
+- restricting and sorting data
+- substitution variables
