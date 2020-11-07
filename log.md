@@ -456,3 +456,10 @@ Day 82:
 
 - restricting and sorting data
 - substitution variables
+
+Day 83:
+
+- NVL
+- NVL2
+- Decode
+- Coalesce
