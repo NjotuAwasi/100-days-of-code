@@ -440,7 +440,7 @@ Day 79: react-native
 
 ![Day79](images/day79.png)
 
-Day 80:
+Day 80: Oracle
 
 - Select queries in oracle
 - order by, fetch clauses
@@ -452,14 +452,20 @@ Day 81:
   - number functions
   - date functions
 
-Day 82:
+Day 82: Oracle
 
 - restricting and sorting data
 - substitution variables
 
-Day 83:
+Day 83: Oracle
 
 - NVL
 - NVL2
 - Decode
 - Coalesce
+
+Day 84: Oracle
+- Define
+- Undefine
+- Accept Prompt
+- Double ampercent
