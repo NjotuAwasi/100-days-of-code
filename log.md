@@ -469,3 +469,9 @@ Day 84: Oracle
 - Undefine
 - Accept Prompt
 - Double ampercent
+
+Day 85: Oracle
+
+- Group functions
+- Group By clauses
+- Having clause
