@@ -475,3 +475,7 @@ Day 85: Oracle
 - Group functions
 - Group By clauses
 - Having clause
+
+Day 86:
+
+- Did some few oracle exercises on what i learnt so far
